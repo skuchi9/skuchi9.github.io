@@ -2,15 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Purdue University
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Purdue University</p>
-    <p>Princeton, NJ</p>
+subtitle: Purdue University · Princeton, NJ
 
 announcements:
   enabled: false
@@ -21,4 +13,4 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-Hi, my name is Srivatsa and I'm a sophomore at Purdue studying Data Science + Statistics. (I will add more to this later)
+Hi, my name is Srivatsa and I'm a sophomore at Purdue studying Data Science and Statistics. 
