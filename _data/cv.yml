@@ -57,4 +57,4 @@ cv:
     Interests:
       - #name: Data Science and Machine Learning
         #icon: fa-solid fa-tag
-        keywords: "Deep Learning, Data Engineering, Macroeconomics, Foreign Policy, Probability"
+      - "Deep Learning, Data Engineering, Macroeconomics, Foreign Policy, Probability"
