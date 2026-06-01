@@ -40,10 +40,12 @@ cv:
         start_date: 2026
         end_date: Present
         summary: Research assistant in the School of Sustainability and Environmental Engineering conducting sustainability research through data science techniques in Python (NumPy, pandas, matplotlib) for data collection, cleaning, analysis, and interpretation, while also leading a first-author academic paper currently in progress.
-        highlights:
-          - Python programming
-          - First author publication
-
+      - company: Cognivance
+        position: Machine Learning Intern
+        location: Skillman, NJ
+        start_date: 2026
+        end_date: Present
+        summary: AI/ML Intern working on ...
     Skills:
       - name: Programming Languages
         #level: Master
